@@ -1,0 +1,28 @@
+.main-headline {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.main-title {
+	color: rgb(26,188,156);
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.main-text {
+	color: rgb(149,165,166);
+	font-size: 18px;
+	padding: 50px 0 0 0;
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+}
+/* @media(max-width: 320px){
+	.main-text {
+		font-size: 18px;
+		padding: 50px 0 0 0;
+		width: 80%;
+		text-align: center;
+		margin: 0 auto;
+	}
+} */

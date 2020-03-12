@@ -1,0 +1,31 @@
+.icon {
+	margin: 0 0 50px 0;
+}
+
+.col-mn {
+	display: flex;
+	justify-content: center;
+	margin: 78px 0 0 0;
+}
+
+.col-mn-1 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 250px;
+	margin: 0 auto;
+	vertical-align: middle;
+	padding: 0 50px 0 50px;
+}
+
+.icon-text {
+	margin-bottom: 150px;
+	color: rgb(149,165,166);
+	font-size: 18px;
+}
+@media(max-width: 768px){
+	.col-mn-1 {
+		width: 200px;
+		padding: 0 20px 0 20px;
+	}
+}

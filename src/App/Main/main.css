@@ -1,0 +1,10 @@
+main{
+    width: 100%;
+}
+.mainContainer{
+    width: 100%;
+}
+.mainContainerBody{
+    display: flex;
+    flex-direction: column;
+}

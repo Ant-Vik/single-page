@@ -1,0 +1,36 @@
+.ProductList{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.btn-view {
+	margin: 76px 0 150px 0;
+	text-align: center;
+}
+
+button {
+	font-size: 23px;
+	text-transform: uppercase;
+	font-weight: 500;
+	width: 218px;
+	height: 56px;
+	color: white;
+	background-color: rgb(26,188,156);
+	text-align: center;
+    border:none;
+    cursor: pointer;
+}
+
+.arrows {
+	width: 10px;
+	height: 10px;
+	position: relative;
+	left: 750px;
+	top: -44px;
+}
+
+.arrows img {
+	width: 30px;
+	height: 30px;
+}

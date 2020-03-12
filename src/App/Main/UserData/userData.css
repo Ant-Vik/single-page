@@ -1,0 +1,44 @@
+.user-data{
+	width: 80%;
+	margin: 0 auto;
+}
+.get-in-touch {
+	color: rgb(26,188,156);
+	font-weight: 500;
+	font-size: 35px;
+	text-align: center;
+	margin: 0 0 75px 0;
+
+}
+form {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center
+}
+.formInput{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+input:not([type="text"]) {
+	height: 100px;
+	width: 359px;
+	background-color: rgb(228,232,232);
+	border: none;
+	margin-bottom: 20px;
+}
+input:first-child{
+    margin: 0 20px 0 0;
+}
+input {
+	height: 200px;
+	width: 738px;
+	background-color: rgb(228,232,232);
+    border: none;
+}
+.send {
+	width: 738px;
+    
+}
